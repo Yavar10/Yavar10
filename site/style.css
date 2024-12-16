@@ -1,0 +1,233 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#container{
+height: 600vh;
+width: 100vw;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.item{
+  width:100vw;
+  height:140px;
+  background-color: black;
+  display: grid;
+  grid-template-columns: repeat(9,1fr);
+  grid-template-rows: repeat(1,1fr);
+  position:sticky;
+  top: 0px;
+  gap: 5px;
+  z-index: 1000;
+}
+#title{
+color: whitesmoke;
+display: flex;
+padding-left: 210px;
+align-items: center;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+grid-column-start: 1;
+grid-column-end: 5;
+}
+#Home{
+color: whitesmoke;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+grid-column-start: 5;
+grid-column-end: 6;
+}
+a{
+color: white;
+text-decoration: none;
+font-family: 'Courier New', Courier, monospace;
+transition: all;
+transition-duration: 1ms;
+}
+a:hover{
+color:teal;
+transform: scale(1.1);
+}
+.sub{
+color: whitesmoke;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+}
+img{
+width: 100vw;
+height: 120vh;
+border: 1px solid white;
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+}
+.content{
+padding-top: 100px;
+width: 1200px;
+height: 325vh;
+display: grid;
+background-color: white;
+grid-template-columns: repeat(2,1fr);
+grid-template-rows: repeat(6,1fr);
+row-gap: 10px;
+column-gap: 20px;
+}
+.items{
+  padding-bottom: 60px;
+}
+#item2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#item1{
+background-color: white;
+}
+.content1{
+color: rgb(0, 114, 114);
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 40px;
+}
+.content2{
+padding:25px;
+font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 10px;
+}
+.content3{
+padding: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.img1{
+height: 100px;
+width: 100px;
+border-radius: 100px;
+border: 2px solid teal;
+box-shadow: 0px 0px 10px black;
+transition: all;
+transition-duration: 0.5s;
+}
+.img1:hover{
+transform: rotate(360deg);
+}
+.img2{
+   height: 320px;
+   width: 600px; 
+   box-shadow: 0px 0px 15px black;
+   border-radius: 0.25cm;
+   transition: all;
+   transition-duration:1.3s;
+}    
+.img2:hover{
+transform: scale(1.05);
+}
+@media (max-width:650px)
+{
+.content{
+width: 600px;
+height: 500vh;
+display: grid;
+background-color: white;
+grid-template-columns: repeat(1,1fr);
+grid-template-rows: repeat(12,1fr);
+row-gap: 30px;
+}
+}  
+.bar{
+width: 100vw;
+height: 80px;
+background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+font-family: 'Courier New', Courier, monospace;
+font-size: 60px;
+color: white;
+padding-top: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.flip{
+width:100vw;
+height:600px;
+background-color: white;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+}
+.outer{
+padding-top: 45px;
+}
+.box{
+height: 450px;
+width:400px;
+background-color:#f5f5f5;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 10px;
+transition: all;
+transition-duration: 2s;
+}
+.box:hover{
+transform: translateY(-50px);
+}
+
+.picture1{
+height: 150px;
+width: 150px;
+transition: all;
+transition-duration: 1s;
+border: 1px solid #f5f5f5;
+}
+.picture1:hover{
+transform: rotateY(180deg);
+}
+.name{
+height:75px;
+width:300px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 60px;
+color: teal;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.about{
+height:150px;
+width:350px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.headingR{
+width: 100vw;
+height: 80px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 60px;
+color: teal;
+padding-top:200px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
