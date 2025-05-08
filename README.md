@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yavar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yavar10&label=Profile%20views&color=0e75b6&style=flat" alt="yavar10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavar10" alt="yavar10" /></a> </p>
+<div align="left">
+  <img src="https://drive.google.com/uc?export=download&id=1RaUSoZ8U706jIjl8CrlH4N4wQ5077Kqf" alt="gif1" width="16%" />
+  <img src="https://drive.google.com/uc?export=download&id=17g4w_7OeoJQSxWBDN5Sk1PDjzfxIjgDB" alt="gif2" width="16%" />
+  <img src="https://drive.google.com/uc?export=download&id=12EniASwzFdZx54dkCWczy3K5dZWZkGxA" alt="gif3" width="16%" />
+  <img src="https://drive.google.com/uc?export=download&id=1BKhLeHwTEuaL20xef6gq6zF_wvCgj-7O" alt="gif4" width="16%" />
+  <img src="https://drive.google.com/uc?export=download&id=1Hn4DyNOkEDH3u3QzZO5CHPDaykuv_J4i" alt="gif5" width="16%" />
+  <img src="https://drive.google.com/uc?export=download&id=1RaUSoZ8U706jIjl8CrlH4N4wQ5077Kqf" alt="gif1" width="16%" />
+</div>
 
 - 🌱 I’m currently learning **ReactJS and Unreal Engine**
 
