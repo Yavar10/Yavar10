@@ -17,7 +17,7 @@
   <img src="https://drive.google.com/uc?export=download&id=1RaUSoZ8U706jIjl8CrlH4N4wQ5077Kqf" alt="gif1" width="16%" />
 </div>
 
-- 🌱 I’m currently learning **ReactJS and Unreal Engine**
+- 🌱 I’m currently perfecting **MERN stack and Unreal Engine**
 
 - 📫 How to reach me **zuri00014@gmail.com**
 
