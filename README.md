@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavar</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A dev (sometimes...)</h3>
 
 <p align="left">
   <img src="https://img.icons8.com/fluency/24/visible.png" alt="views icon" />
