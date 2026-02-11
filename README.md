@@ -64,7 +64,9 @@
 
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yavar10&layout=compact&cache_seconds=180" />
-<img src="https://github-readme-stats.vercel.app/api?username=yavar10&show_icons=true&locale=en&cache_seconds=180" /></p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yavar10&layout=compact)
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yavar10&show_icons=true)
+
 
 
