@@ -67,6 +67,10 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yavar10&layout=compact)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yavar10&show_icons=true)
+<p>
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yavar10&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
+  <img align="left" src="https://streak-stats.demolab.com?user=yavar10&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
 
 
 
